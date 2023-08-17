@@ -1,6 +1,6 @@
 # Olá, Bem vindo ao meu projeto de Currículo.
 
-![image]https://curriculo-beryl.vercel.app/
+![image](https://curriculo-beryl.vercel.app/)
 
 ## Ferramentas utilizadas:
 
